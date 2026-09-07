@@ -103,4 +103,4 @@ for char, code in huffman_codes.items():
 
 
 # Result :
- The Huffman Coding algorithm was successfully implemented, and Huffman codes were generated for the characters in “Tamizhselvan B”.
+ The Huffman Coding algorithm was successfully implemented, and Huffman codes were generated for the characters in “JISHNUPRIYAN S”.
